@@ -1,3 +1,3 @@
 # cart
 
-Корзина для интернет-магазина на чистом JS.
+A shopping cart for online-store wth a native Javacript.
